@@ -1,0 +1,16 @@
+C:\Users\Admin\Desktop\DigitalOne\3-Bootcamp_GFT_Starter\6-TrabalhandoArquivos&Streams\2-DirectoryAndDirectoryInfo\bin\Debug\net5.0\DirectoryAndDirectoryInfo.exe
+C:\Users\Admin\Desktop\DigitalOne\3-Bootcamp_GFT_Starter\6-TrabalhandoArquivos&Streams\2-DirectoryAndDirectoryInfo\bin\Debug\net5.0\DirectoryAndDirectoryInfo.deps.json
+C:\Users\Admin\Desktop\DigitalOne\3-Bootcamp_GFT_Starter\6-TrabalhandoArquivos&Streams\2-DirectoryAndDirectoryInfo\bin\Debug\net5.0\DirectoryAndDirectoryInfo.runtimeconfig.json
+C:\Users\Admin\Desktop\DigitalOne\3-Bootcamp_GFT_Starter\6-TrabalhandoArquivos&Streams\2-DirectoryAndDirectoryInfo\bin\Debug\net5.0\DirectoryAndDirectoryInfo.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\DigitalOne\3-Bootcamp_GFT_Starter\6-TrabalhandoArquivos&Streams\2-DirectoryAndDirectoryInfo\bin\Debug\net5.0\DirectoryAndDirectoryInfo.dll
+C:\Users\Admin\Desktop\DigitalOne\3-Bootcamp_GFT_Starter\6-TrabalhandoArquivos&Streams\2-DirectoryAndDirectoryInfo\bin\Debug\net5.0\ref\DirectoryAndDirectoryInfo.dll
+C:\Users\Admin\Desktop\DigitalOne\3-Bootcamp_GFT_Starter\6-TrabalhandoArquivos&Streams\2-DirectoryAndDirectoryInfo\bin\Debug\net5.0\DirectoryAndDirectoryInfo.pdb
+C:\Users\Admin\Desktop\DigitalOne\3-Bootcamp_GFT_Starter\6-TrabalhandoArquivos&Streams\2-DirectoryAndDirectoryInfo\obj\Debug\net5.0\DirectoryAndDirectoryInfo.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\DigitalOne\3-Bootcamp_GFT_Starter\6-TrabalhandoArquivos&Streams\2-DirectoryAndDirectoryInfo\obj\Debug\net5.0\DirectoryAndDirectoryInfo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\DigitalOne\3-Bootcamp_GFT_Starter\6-TrabalhandoArquivos&Streams\2-DirectoryAndDirectoryInfo\obj\Debug\net5.0\DirectoryAndDirectoryInfo.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\DigitalOne\3-Bootcamp_GFT_Starter\6-TrabalhandoArquivos&Streams\2-DirectoryAndDirectoryInfo\obj\Debug\net5.0\DirectoryAndDirectoryInfo.AssemblyInfo.cs
+C:\Users\Admin\Desktop\DigitalOne\3-Bootcamp_GFT_Starter\6-TrabalhandoArquivos&Streams\2-DirectoryAndDirectoryInfo\obj\Debug\net5.0\DirectoryAndDirectoryInfo.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\DigitalOne\3-Bootcamp_GFT_Starter\6-TrabalhandoArquivos&Streams\2-DirectoryAndDirectoryInfo\obj\Debug\net5.0\DirectoryAndDirectoryInfo.dll
+C:\Users\Admin\Desktop\DigitalOne\3-Bootcamp_GFT_Starter\6-TrabalhandoArquivos&Streams\2-DirectoryAndDirectoryInfo\obj\Debug\net5.0\ref\DirectoryAndDirectoryInfo.dll
+C:\Users\Admin\Desktop\DigitalOne\3-Bootcamp_GFT_Starter\6-TrabalhandoArquivos&Streams\2-DirectoryAndDirectoryInfo\obj\Debug\net5.0\DirectoryAndDirectoryInfo.pdb
+C:\Users\Admin\Desktop\DigitalOne\3-Bootcamp_GFT_Starter\6-TrabalhandoArquivos&Streams\2-DirectoryAndDirectoryInfo\obj\Debug\net5.0\DirectoryAndDirectoryInfo.genruntimeconfig.cache

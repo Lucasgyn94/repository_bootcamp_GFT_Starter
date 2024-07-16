@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\DigitalOne\3-Bootcamp_GFT_Starter\9-TratamentoErroC#ComExceptions\ConsoleDivisionExceptionAppErroCorrigido\bin\Debug\net6.0\ConsoleDivisionExceptionAppErroCorrigido.exe
+C:\Users\Admin\Desktop\DigitalOne\3-Bootcamp_GFT_Starter\9-TratamentoErroC#ComExceptions\ConsoleDivisionExceptionAppErroCorrigido\bin\Debug\net6.0\ConsoleDivisionExceptionAppErroCorrigido.deps.json
+C:\Users\Admin\Desktop\DigitalOne\3-Bootcamp_GFT_Starter\9-TratamentoErroC#ComExceptions\ConsoleDivisionExceptionAppErroCorrigido\bin\Debug\net6.0\ConsoleDivisionExceptionAppErroCorrigido.runtimeconfig.json
+C:\Users\Admin\Desktop\DigitalOne\3-Bootcamp_GFT_Starter\9-TratamentoErroC#ComExceptions\ConsoleDivisionExceptionAppErroCorrigido\bin\Debug\net6.0\ConsoleDivisionExceptionAppErroCorrigido.dll
+C:\Users\Admin\Desktop\DigitalOne\3-Bootcamp_GFT_Starter\9-TratamentoErroC#ComExceptions\ConsoleDivisionExceptionAppErroCorrigido\bin\Debug\net6.0\ref\ConsoleDivisionExceptionAppErroCorrigido.dll
+C:\Users\Admin\Desktop\DigitalOne\3-Bootcamp_GFT_Starter\9-TratamentoErroC#ComExceptions\ConsoleDivisionExceptionAppErroCorrigido\bin\Debug\net6.0\ConsoleDivisionExceptionAppErroCorrigido.pdb
+C:\Users\Admin\Desktop\DigitalOne\3-Bootcamp_GFT_Starter\9-TratamentoErroC#ComExceptions\ConsoleDivisionExceptionAppErroCorrigido\obj\Debug\net6.0\ConsoleDivisionExceptionAppErroCorrigido.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\DigitalOne\3-Bootcamp_GFT_Starter\9-TratamentoErroC#ComExceptions\ConsoleDivisionExceptionAppErroCorrigido\obj\Debug\net6.0\ConsoleDivisionExceptionAppErroCorrigido.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\DigitalOne\3-Bootcamp_GFT_Starter\9-TratamentoErroC#ComExceptions\ConsoleDivisionExceptionAppErroCorrigido\obj\Debug\net6.0\ConsoleDivisionExceptionAppErroCorrigido.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\DigitalOne\3-Bootcamp_GFT_Starter\9-TratamentoErroC#ComExceptions\ConsoleDivisionExceptionAppErroCorrigido\obj\Debug\net6.0\ConsoleDivisionExceptionAppErroCorrigido.AssemblyInfo.cs
+C:\Users\Admin\Desktop\DigitalOne\3-Bootcamp_GFT_Starter\9-TratamentoErroC#ComExceptions\ConsoleDivisionExceptionAppErroCorrigido\obj\Debug\net6.0\ConsoleDivisionExceptionAppErroCorrigido.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\DigitalOne\3-Bootcamp_GFT_Starter\9-TratamentoErroC#ComExceptions\ConsoleDivisionExceptionAppErroCorrigido\obj\Debug\net6.0\ConsoleDivisionExceptionAppErroCorrigido.dll
+C:\Users\Admin\Desktop\DigitalOne\3-Bootcamp_GFT_Starter\9-TratamentoErroC#ComExceptions\ConsoleDivisionExceptionAppErroCorrigido\obj\Debug\net6.0\ref\ConsoleDivisionExceptionAppErroCorrigido.dll
+C:\Users\Admin\Desktop\DigitalOne\3-Bootcamp_GFT_Starter\9-TratamentoErroC#ComExceptions\ConsoleDivisionExceptionAppErroCorrigido\obj\Debug\net6.0\ConsoleDivisionExceptionAppErroCorrigido.pdb
+C:\Users\Admin\Desktop\DigitalOne\3-Bootcamp_GFT_Starter\9-TratamentoErroC#ComExceptions\ConsoleDivisionExceptionAppErroCorrigido\obj\Debug\net6.0\ConsoleDivisionExceptionAppErroCorrigido.genruntimeconfig.cache

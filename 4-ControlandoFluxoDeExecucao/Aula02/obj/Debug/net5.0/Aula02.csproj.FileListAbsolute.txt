@@ -1,0 +1,16 @@
+C:\Users\Admin\Desktop\DigitalOne\3-Bootcamp_GFT_Starter\4-ControlandoFluxoDeExecucao\Aula02\bin\Debug\net5.0\Aula02.exe
+C:\Users\Admin\Desktop\DigitalOne\3-Bootcamp_GFT_Starter\4-ControlandoFluxoDeExecucao\Aula02\bin\Debug\net5.0\Aula02.deps.json
+C:\Users\Admin\Desktop\DigitalOne\3-Bootcamp_GFT_Starter\4-ControlandoFluxoDeExecucao\Aula02\bin\Debug\net5.0\Aula02.runtimeconfig.json
+C:\Users\Admin\Desktop\DigitalOne\3-Bootcamp_GFT_Starter\4-ControlandoFluxoDeExecucao\Aula02\bin\Debug\net5.0\Aula02.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\DigitalOne\3-Bootcamp_GFT_Starter\4-ControlandoFluxoDeExecucao\Aula02\bin\Debug\net5.0\Aula02.dll
+C:\Users\Admin\Desktop\DigitalOne\3-Bootcamp_GFT_Starter\4-ControlandoFluxoDeExecucao\Aula02\bin\Debug\net5.0\ref\Aula02.dll
+C:\Users\Admin\Desktop\DigitalOne\3-Bootcamp_GFT_Starter\4-ControlandoFluxoDeExecucao\Aula02\bin\Debug\net5.0\Aula02.pdb
+C:\Users\Admin\Desktop\DigitalOne\3-Bootcamp_GFT_Starter\4-ControlandoFluxoDeExecucao\Aula02\obj\Debug\net5.0\Aula02.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\DigitalOne\3-Bootcamp_GFT_Starter\4-ControlandoFluxoDeExecucao\Aula02\obj\Debug\net5.0\Aula02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\DigitalOne\3-Bootcamp_GFT_Starter\4-ControlandoFluxoDeExecucao\Aula02\obj\Debug\net5.0\Aula02.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\DigitalOne\3-Bootcamp_GFT_Starter\4-ControlandoFluxoDeExecucao\Aula02\obj\Debug\net5.0\Aula02.AssemblyInfo.cs
+C:\Users\Admin\Desktop\DigitalOne\3-Bootcamp_GFT_Starter\4-ControlandoFluxoDeExecucao\Aula02\obj\Debug\net5.0\Aula02.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\DigitalOne\3-Bootcamp_GFT_Starter\4-ControlandoFluxoDeExecucao\Aula02\obj\Debug\net5.0\Aula02.dll
+C:\Users\Admin\Desktop\DigitalOne\3-Bootcamp_GFT_Starter\4-ControlandoFluxoDeExecucao\Aula02\obj\Debug\net5.0\ref\Aula02.dll
+C:\Users\Admin\Desktop\DigitalOne\3-Bootcamp_GFT_Starter\4-ControlandoFluxoDeExecucao\Aula02\obj\Debug\net5.0\Aula02.pdb
+C:\Users\Admin\Desktop\DigitalOne\3-Bootcamp_GFT_Starter\4-ControlandoFluxoDeExecucao\Aula02\obj\Debug\net5.0\Aula02.genruntimeconfig.cache

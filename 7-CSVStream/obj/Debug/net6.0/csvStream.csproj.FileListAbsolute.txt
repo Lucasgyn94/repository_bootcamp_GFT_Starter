@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\DigitalOne\3-Bootcamp_GFT_Starter\7-CSVStream\bin\Debug\net6.0\csvStream.exe
+C:\Users\Admin\Desktop\DigitalOne\3-Bootcamp_GFT_Starter\7-CSVStream\bin\Debug\net6.0\csvStream.deps.json
+C:\Users\Admin\Desktop\DigitalOne\3-Bootcamp_GFT_Starter\7-CSVStream\bin\Debug\net6.0\csvStream.runtimeconfig.json
+C:\Users\Admin\Desktop\DigitalOne\3-Bootcamp_GFT_Starter\7-CSVStream\bin\Debug\net6.0\csvStream.dll
+C:\Users\Admin\Desktop\DigitalOne\3-Bootcamp_GFT_Starter\7-CSVStream\bin\Debug\net6.0\ref\csvStream.dll
+C:\Users\Admin\Desktop\DigitalOne\3-Bootcamp_GFT_Starter\7-CSVStream\bin\Debug\net6.0\csvStream.pdb
+C:\Users\Admin\Desktop\DigitalOne\3-Bootcamp_GFT_Starter\7-CSVStream\obj\Debug\net6.0\csvStream.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\DigitalOne\3-Bootcamp_GFT_Starter\7-CSVStream\obj\Debug\net6.0\csvStream.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\DigitalOne\3-Bootcamp_GFT_Starter\7-CSVStream\obj\Debug\net6.0\csvStream.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\DigitalOne\3-Bootcamp_GFT_Starter\7-CSVStream\obj\Debug\net6.0\csvStream.AssemblyInfo.cs
+C:\Users\Admin\Desktop\DigitalOne\3-Bootcamp_GFT_Starter\7-CSVStream\obj\Debug\net6.0\csvStream.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\DigitalOne\3-Bootcamp_GFT_Starter\7-CSVStream\obj\Debug\net6.0\csvStream.dll
+C:\Users\Admin\Desktop\DigitalOne\3-Bootcamp_GFT_Starter\7-CSVStream\obj\Debug\net6.0\ref\csvStream.dll
+C:\Users\Admin\Desktop\DigitalOne\3-Bootcamp_GFT_Starter\7-CSVStream\obj\Debug\net6.0\csvStream.pdb
+C:\Users\Admin\Desktop\DigitalOne\3-Bootcamp_GFT_Starter\7-CSVStream\obj\Debug\net6.0\csvStream.genruntimeconfig.cache

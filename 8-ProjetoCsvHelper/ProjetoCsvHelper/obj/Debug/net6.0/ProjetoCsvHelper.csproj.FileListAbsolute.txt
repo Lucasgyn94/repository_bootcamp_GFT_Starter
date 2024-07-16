@@ -1,0 +1,17 @@
+C:\Users\Admin\Desktop\DigitalOne\3-Bootcamp_GFT_Starter\8-ProjetoCsvHelper\arquivos_e_streams\ProjetoCsvHelper\bin\Debug\net6.0\ProjetoCsvHelper.exe
+C:\Users\Admin\Desktop\DigitalOne\3-Bootcamp_GFT_Starter\8-ProjetoCsvHelper\arquivos_e_streams\ProjetoCsvHelper\bin\Debug\net6.0\ProjetoCsvHelper.deps.json
+C:\Users\Admin\Desktop\DigitalOne\3-Bootcamp_GFT_Starter\8-ProjetoCsvHelper\arquivos_e_streams\ProjetoCsvHelper\bin\Debug\net6.0\ProjetoCsvHelper.runtimeconfig.json
+C:\Users\Admin\Desktop\DigitalOne\3-Bootcamp_GFT_Starter\8-ProjetoCsvHelper\arquivos_e_streams\ProjetoCsvHelper\bin\Debug\net6.0\ProjetoCsvHelper.dll
+C:\Users\Admin\Desktop\DigitalOne\3-Bootcamp_GFT_Starter\8-ProjetoCsvHelper\arquivos_e_streams\ProjetoCsvHelper\bin\Debug\net6.0\ref\ProjetoCsvHelper.dll
+C:\Users\Admin\Desktop\DigitalOne\3-Bootcamp_GFT_Starter\8-ProjetoCsvHelper\arquivos_e_streams\ProjetoCsvHelper\bin\Debug\net6.0\ProjetoCsvHelper.pdb
+C:\Users\Admin\Desktop\DigitalOne\3-Bootcamp_GFT_Starter\8-ProjetoCsvHelper\arquivos_e_streams\ProjetoCsvHelper\bin\Debug\net6.0\CsvHelper.dll
+C:\Users\Admin\Desktop\DigitalOne\3-Bootcamp_GFT_Starter\8-ProjetoCsvHelper\arquivos_e_streams\ProjetoCsvHelper\obj\Debug\net6.0\ProjetoCsvHelper.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\DigitalOne\3-Bootcamp_GFT_Starter\8-ProjetoCsvHelper\arquivos_e_streams\ProjetoCsvHelper\obj\Debug\net6.0\ProjetoCsvHelper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\DigitalOne\3-Bootcamp_GFT_Starter\8-ProjetoCsvHelper\arquivos_e_streams\ProjetoCsvHelper\obj\Debug\net6.0\ProjetoCsvHelper.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\DigitalOne\3-Bootcamp_GFT_Starter\8-ProjetoCsvHelper\arquivos_e_streams\ProjetoCsvHelper\obj\Debug\net6.0\ProjetoCsvHelper.AssemblyInfo.cs
+C:\Users\Admin\Desktop\DigitalOne\3-Bootcamp_GFT_Starter\8-ProjetoCsvHelper\arquivos_e_streams\ProjetoCsvHelper\obj\Debug\net6.0\ProjetoCsvHelper.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\DigitalOne\3-Bootcamp_GFT_Starter\8-ProjetoCsvHelper\arquivos_e_streams\ProjetoCsvHelper\obj\Debug\net6.0\ProjetoCsvHelper.csproj.CopyComplete
+C:\Users\Admin\Desktop\DigitalOne\3-Bootcamp_GFT_Starter\8-ProjetoCsvHelper\arquivos_e_streams\ProjetoCsvHelper\obj\Debug\net6.0\ProjetoCsvHelper.dll
+C:\Users\Admin\Desktop\DigitalOne\3-Bootcamp_GFT_Starter\8-ProjetoCsvHelper\arquivos_e_streams\ProjetoCsvHelper\obj\Debug\net6.0\ref\ProjetoCsvHelper.dll
+C:\Users\Admin\Desktop\DigitalOne\3-Bootcamp_GFT_Starter\8-ProjetoCsvHelper\arquivos_e_streams\ProjetoCsvHelper\obj\Debug\net6.0\ProjetoCsvHelper.pdb
+C:\Users\Admin\Desktop\DigitalOne\3-Bootcamp_GFT_Starter\8-ProjetoCsvHelper\arquivos_e_streams\ProjetoCsvHelper\obj\Debug\net6.0\ProjetoCsvHelper.genruntimeconfig.cache

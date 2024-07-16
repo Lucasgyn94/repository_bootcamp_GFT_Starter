@@ -1,0 +1,16 @@
+C:\Users\Admin\Desktop\DigitalOne\3-Bootcamp_GFT_Starter\6-TrabalhandoArquivos&Streams\5-StringReader\bin\Debug\net5.0\StringReader.exe
+C:\Users\Admin\Desktop\DigitalOne\3-Bootcamp_GFT_Starter\6-TrabalhandoArquivos&Streams\5-StringReader\bin\Debug\net5.0\StringReader.deps.json
+C:\Users\Admin\Desktop\DigitalOne\3-Bootcamp_GFT_Starter\6-TrabalhandoArquivos&Streams\5-StringReader\bin\Debug\net5.0\StringReader.runtimeconfig.json
+C:\Users\Admin\Desktop\DigitalOne\3-Bootcamp_GFT_Starter\6-TrabalhandoArquivos&Streams\5-StringReader\bin\Debug\net5.0\StringReader.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\DigitalOne\3-Bootcamp_GFT_Starter\6-TrabalhandoArquivos&Streams\5-StringReader\bin\Debug\net5.0\StringReader.dll
+C:\Users\Admin\Desktop\DigitalOne\3-Bootcamp_GFT_Starter\6-TrabalhandoArquivos&Streams\5-StringReader\bin\Debug\net5.0\ref\StringReader.dll
+C:\Users\Admin\Desktop\DigitalOne\3-Bootcamp_GFT_Starter\6-TrabalhandoArquivos&Streams\5-StringReader\bin\Debug\net5.0\StringReader.pdb
+C:\Users\Admin\Desktop\DigitalOne\3-Bootcamp_GFT_Starter\6-TrabalhandoArquivos&Streams\5-StringReader\obj\Debug\net5.0\StringReader.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\DigitalOne\3-Bootcamp_GFT_Starter\6-TrabalhandoArquivos&Streams\5-StringReader\obj\Debug\net5.0\StringReader.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\DigitalOne\3-Bootcamp_GFT_Starter\6-TrabalhandoArquivos&Streams\5-StringReader\obj\Debug\net5.0\StringReader.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\DigitalOne\3-Bootcamp_GFT_Starter\6-TrabalhandoArquivos&Streams\5-StringReader\obj\Debug\net5.0\StringReader.AssemblyInfo.cs
+C:\Users\Admin\Desktop\DigitalOne\3-Bootcamp_GFT_Starter\6-TrabalhandoArquivos&Streams\5-StringReader\obj\Debug\net5.0\StringReader.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\DigitalOne\3-Bootcamp_GFT_Starter\6-TrabalhandoArquivos&Streams\5-StringReader\obj\Debug\net5.0\StringReader.dll
+C:\Users\Admin\Desktop\DigitalOne\3-Bootcamp_GFT_Starter\6-TrabalhandoArquivos&Streams\5-StringReader\obj\Debug\net5.0\ref\StringReader.dll
+C:\Users\Admin\Desktop\DigitalOne\3-Bootcamp_GFT_Starter\6-TrabalhandoArquivos&Streams\5-StringReader\obj\Debug\net5.0\StringReader.pdb
+C:\Users\Admin\Desktop\DigitalOne\3-Bootcamp_GFT_Starter\6-TrabalhandoArquivos&Streams\5-StringReader\obj\Debug\net5.0\StringReader.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\Admin\Desktop\DigitalOne\3-Bootcamp_GFT_Starter\6-TrabalhandoArquivos&Streams\6-StringWriter\bin\Debug\net5.0\StringWriter.exe
+C:\Users\Admin\Desktop\DigitalOne\3-Bootcamp_GFT_Starter\6-TrabalhandoArquivos&Streams\6-StringWriter\bin\Debug\net5.0\StringWriter.deps.json
+C:\Users\Admin\Desktop\DigitalOne\3-Bootcamp_GFT_Starter\6-TrabalhandoArquivos&Streams\6-StringWriter\bin\Debug\net5.0\StringWriter.runtimeconfig.json
+C:\Users\Admin\Desktop\DigitalOne\3-Bootcamp_GFT_Starter\6-TrabalhandoArquivos&Streams\6-StringWriter\bin\Debug\net5.0\StringWriter.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\DigitalOne\3-Bootcamp_GFT_Starter\6-TrabalhandoArquivos&Streams\6-StringWriter\bin\Debug\net5.0\StringWriter.dll
+C:\Users\Admin\Desktop\DigitalOne\3-Bootcamp_GFT_Starter\6-TrabalhandoArquivos&Streams\6-StringWriter\bin\Debug\net5.0\ref\StringWriter.dll
+C:\Users\Admin\Desktop\DigitalOne\3-Bootcamp_GFT_Starter\6-TrabalhandoArquivos&Streams\6-StringWriter\bin\Debug\net5.0\StringWriter.pdb
+C:\Users\Admin\Desktop\DigitalOne\3-Bootcamp_GFT_Starter\6-TrabalhandoArquivos&Streams\6-StringWriter\obj\Debug\net5.0\StringWriter.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\DigitalOne\3-Bootcamp_GFT_Starter\6-TrabalhandoArquivos&Streams\6-StringWriter\obj\Debug\net5.0\StringWriter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\DigitalOne\3-Bootcamp_GFT_Starter\6-TrabalhandoArquivos&Streams\6-StringWriter\obj\Debug\net5.0\StringWriter.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\DigitalOne\3-Bootcamp_GFT_Starter\6-TrabalhandoArquivos&Streams\6-StringWriter\obj\Debug\net5.0\StringWriter.AssemblyInfo.cs
+C:\Users\Admin\Desktop\DigitalOne\3-Bootcamp_GFT_Starter\6-TrabalhandoArquivos&Streams\6-StringWriter\obj\Debug\net5.0\StringWriter.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\DigitalOne\3-Bootcamp_GFT_Starter\6-TrabalhandoArquivos&Streams\6-StringWriter\obj\Debug\net5.0\StringWriter.dll
+C:\Users\Admin\Desktop\DigitalOne\3-Bootcamp_GFT_Starter\6-TrabalhandoArquivos&Streams\6-StringWriter\obj\Debug\net5.0\ref\StringWriter.dll
+C:\Users\Admin\Desktop\DigitalOne\3-Bootcamp_GFT_Starter\6-TrabalhandoArquivos&Streams\6-StringWriter\obj\Debug\net5.0\StringWriter.pdb
+C:\Users\Admin\Desktop\DigitalOne\3-Bootcamp_GFT_Starter\6-TrabalhandoArquivos&Streams\6-StringWriter\obj\Debug\net5.0\StringWriter.genruntimeconfig.cache

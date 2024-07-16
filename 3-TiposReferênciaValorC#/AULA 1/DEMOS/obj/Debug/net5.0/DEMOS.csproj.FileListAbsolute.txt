@@ -1,0 +1,16 @@
+C:\Users\Admin\Desktop\DigitalOne\3-Bootcamp_GFT_Starter\3-TiposReferênciaValorC#\DEMOS\bin\Debug\net5.0\DEMOS.exe
+C:\Users\Admin\Desktop\DigitalOne\3-Bootcamp_GFT_Starter\3-TiposReferênciaValorC#\DEMOS\bin\Debug\net5.0\DEMOS.deps.json
+C:\Users\Admin\Desktop\DigitalOne\3-Bootcamp_GFT_Starter\3-TiposReferênciaValorC#\DEMOS\bin\Debug\net5.0\DEMOS.runtimeconfig.json
+C:\Users\Admin\Desktop\DigitalOne\3-Bootcamp_GFT_Starter\3-TiposReferênciaValorC#\DEMOS\bin\Debug\net5.0\DEMOS.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\DigitalOne\3-Bootcamp_GFT_Starter\3-TiposReferênciaValorC#\DEMOS\bin\Debug\net5.0\DEMOS.dll
+C:\Users\Admin\Desktop\DigitalOne\3-Bootcamp_GFT_Starter\3-TiposReferênciaValorC#\DEMOS\bin\Debug\net5.0\ref\DEMOS.dll
+C:\Users\Admin\Desktop\DigitalOne\3-Bootcamp_GFT_Starter\3-TiposReferênciaValorC#\DEMOS\bin\Debug\net5.0\DEMOS.pdb
+C:\Users\Admin\Desktop\DigitalOne\3-Bootcamp_GFT_Starter\3-TiposReferênciaValorC#\DEMOS\obj\Debug\net5.0\DEMOS.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\DigitalOne\3-Bootcamp_GFT_Starter\3-TiposReferênciaValorC#\DEMOS\obj\Debug\net5.0\DEMOS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\DigitalOne\3-Bootcamp_GFT_Starter\3-TiposReferênciaValorC#\DEMOS\obj\Debug\net5.0\DEMOS.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\DigitalOne\3-Bootcamp_GFT_Starter\3-TiposReferênciaValorC#\DEMOS\obj\Debug\net5.0\DEMOS.AssemblyInfo.cs
+C:\Users\Admin\Desktop\DigitalOne\3-Bootcamp_GFT_Starter\3-TiposReferênciaValorC#\DEMOS\obj\Debug\net5.0\DEMOS.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\DigitalOne\3-Bootcamp_GFT_Starter\3-TiposReferênciaValorC#\DEMOS\obj\Debug\net5.0\DEMOS.dll
+C:\Users\Admin\Desktop\DigitalOne\3-Bootcamp_GFT_Starter\3-TiposReferênciaValorC#\DEMOS\obj\Debug\net5.0\ref\DEMOS.dll
+C:\Users\Admin\Desktop\DigitalOne\3-Bootcamp_GFT_Starter\3-TiposReferênciaValorC#\DEMOS\obj\Debug\net5.0\DEMOS.pdb
+C:\Users\Admin\Desktop\DigitalOne\3-Bootcamp_GFT_Starter\3-TiposReferênciaValorC#\DEMOS\obj\Debug\net5.0\DEMOS.genruntimeconfig.cache

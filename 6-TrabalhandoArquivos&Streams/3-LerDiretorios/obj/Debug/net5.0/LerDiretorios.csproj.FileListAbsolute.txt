@@ -1,0 +1,16 @@
+C:\Users\Admin\Desktop\DigitalOne\3-Bootcamp_GFT_Starter\6-TrabalhandoArquivos&Streams\3-LerDiretorios\bin\Debug\net5.0\LerDiretorios.exe
+C:\Users\Admin\Desktop\DigitalOne\3-Bootcamp_GFT_Starter\6-TrabalhandoArquivos&Streams\3-LerDiretorios\bin\Debug\net5.0\LerDiretorios.deps.json
+C:\Users\Admin\Desktop\DigitalOne\3-Bootcamp_GFT_Starter\6-TrabalhandoArquivos&Streams\3-LerDiretorios\bin\Debug\net5.0\LerDiretorios.runtimeconfig.json
+C:\Users\Admin\Desktop\DigitalOne\3-Bootcamp_GFT_Starter\6-TrabalhandoArquivos&Streams\3-LerDiretorios\bin\Debug\net5.0\LerDiretorios.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\DigitalOne\3-Bootcamp_GFT_Starter\6-TrabalhandoArquivos&Streams\3-LerDiretorios\bin\Debug\net5.0\LerDiretorios.dll
+C:\Users\Admin\Desktop\DigitalOne\3-Bootcamp_GFT_Starter\6-TrabalhandoArquivos&Streams\3-LerDiretorios\bin\Debug\net5.0\ref\LerDiretorios.dll
+C:\Users\Admin\Desktop\DigitalOne\3-Bootcamp_GFT_Starter\6-TrabalhandoArquivos&Streams\3-LerDiretorios\bin\Debug\net5.0\LerDiretorios.pdb
+C:\Users\Admin\Desktop\DigitalOne\3-Bootcamp_GFT_Starter\6-TrabalhandoArquivos&Streams\3-LerDiretorios\obj\Debug\net5.0\LerDiretorios.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\DigitalOne\3-Bootcamp_GFT_Starter\6-TrabalhandoArquivos&Streams\3-LerDiretorios\obj\Debug\net5.0\LerDiretorios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\DigitalOne\3-Bootcamp_GFT_Starter\6-TrabalhandoArquivos&Streams\3-LerDiretorios\obj\Debug\net5.0\LerDiretorios.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\DigitalOne\3-Bootcamp_GFT_Starter\6-TrabalhandoArquivos&Streams\3-LerDiretorios\obj\Debug\net5.0\LerDiretorios.AssemblyInfo.cs
+C:\Users\Admin\Desktop\DigitalOne\3-Bootcamp_GFT_Starter\6-TrabalhandoArquivos&Streams\3-LerDiretorios\obj\Debug\net5.0\LerDiretorios.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\DigitalOne\3-Bootcamp_GFT_Starter\6-TrabalhandoArquivos&Streams\3-LerDiretorios\obj\Debug\net5.0\LerDiretorios.dll
+C:\Users\Admin\Desktop\DigitalOne\3-Bootcamp_GFT_Starter\6-TrabalhandoArquivos&Streams\3-LerDiretorios\obj\Debug\net5.0\ref\LerDiretorios.dll
+C:\Users\Admin\Desktop\DigitalOne\3-Bootcamp_GFT_Starter\6-TrabalhandoArquivos&Streams\3-LerDiretorios\obj\Debug\net5.0\LerDiretorios.pdb
+C:\Users\Admin\Desktop\DigitalOne\3-Bootcamp_GFT_Starter\6-TrabalhandoArquivos&Streams\3-LerDiretorios\obj\Debug\net5.0\LerDiretorios.genruntimeconfig.cache

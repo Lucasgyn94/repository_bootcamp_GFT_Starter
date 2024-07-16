@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\DigitalOne\3-Bootcamp_GFT_Starter\9-TratamentoErroC#ComExceptions\ConsoleDivisionExceptionApp\bin\Debug\net6.0\ConsoleDivisionExceptionApp.exe
+C:\Users\Admin\Desktop\DigitalOne\3-Bootcamp_GFT_Starter\9-TratamentoErroC#ComExceptions\ConsoleDivisionExceptionApp\bin\Debug\net6.0\ConsoleDivisionExceptionApp.deps.json
+C:\Users\Admin\Desktop\DigitalOne\3-Bootcamp_GFT_Starter\9-TratamentoErroC#ComExceptions\ConsoleDivisionExceptionApp\bin\Debug\net6.0\ConsoleDivisionExceptionApp.runtimeconfig.json
+C:\Users\Admin\Desktop\DigitalOne\3-Bootcamp_GFT_Starter\9-TratamentoErroC#ComExceptions\ConsoleDivisionExceptionApp\bin\Debug\net6.0\ConsoleDivisionExceptionApp.dll
+C:\Users\Admin\Desktop\DigitalOne\3-Bootcamp_GFT_Starter\9-TratamentoErroC#ComExceptions\ConsoleDivisionExceptionApp\bin\Debug\net6.0\ref\ConsoleDivisionExceptionApp.dll
+C:\Users\Admin\Desktop\DigitalOne\3-Bootcamp_GFT_Starter\9-TratamentoErroC#ComExceptions\ConsoleDivisionExceptionApp\bin\Debug\net6.0\ConsoleDivisionExceptionApp.pdb
+C:\Users\Admin\Desktop\DigitalOne\3-Bootcamp_GFT_Starter\9-TratamentoErroC#ComExceptions\ConsoleDivisionExceptionApp\obj\Debug\net6.0\ConsoleDivisionExceptionApp.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\DigitalOne\3-Bootcamp_GFT_Starter\9-TratamentoErroC#ComExceptions\ConsoleDivisionExceptionApp\obj\Debug\net6.0\ConsoleDivisionExceptionApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\DigitalOne\3-Bootcamp_GFT_Starter\9-TratamentoErroC#ComExceptions\ConsoleDivisionExceptionApp\obj\Debug\net6.0\ConsoleDivisionExceptionApp.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\DigitalOne\3-Bootcamp_GFT_Starter\9-TratamentoErroC#ComExceptions\ConsoleDivisionExceptionApp\obj\Debug\net6.0\ConsoleDivisionExceptionApp.AssemblyInfo.cs
+C:\Users\Admin\Desktop\DigitalOne\3-Bootcamp_GFT_Starter\9-TratamentoErroC#ComExceptions\ConsoleDivisionExceptionApp\obj\Debug\net6.0\ConsoleDivisionExceptionApp.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\DigitalOne\3-Bootcamp_GFT_Starter\9-TratamentoErroC#ComExceptions\ConsoleDivisionExceptionApp\obj\Debug\net6.0\ConsoleDivisionExceptionApp.dll
+C:\Users\Admin\Desktop\DigitalOne\3-Bootcamp_GFT_Starter\9-TratamentoErroC#ComExceptions\ConsoleDivisionExceptionApp\obj\Debug\net6.0\ref\ConsoleDivisionExceptionApp.dll
+C:\Users\Admin\Desktop\DigitalOne\3-Bootcamp_GFT_Starter\9-TratamentoErroC#ComExceptions\ConsoleDivisionExceptionApp\obj\Debug\net6.0\ConsoleDivisionExceptionApp.pdb
+C:\Users\Admin\Desktop\DigitalOne\3-Bootcamp_GFT_Starter\9-TratamentoErroC#ComExceptions\ConsoleDivisionExceptionApp\obj\Debug\net6.0\ConsoleDivisionExceptionApp.genruntimeconfig.cache

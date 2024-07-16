@@ -1,0 +1,16 @@
+C:\Users\Admin\Desktop\DigitalOne\3-Bootcamp_GFT_Starter\6-TrabalhandoArquivos&Streams\4-FileSystemWatcher\bin\Debug\net5.0\FileSystemWatcher.exe
+C:\Users\Admin\Desktop\DigitalOne\3-Bootcamp_GFT_Starter\6-TrabalhandoArquivos&Streams\4-FileSystemWatcher\bin\Debug\net5.0\FileSystemWatcher.deps.json
+C:\Users\Admin\Desktop\DigitalOne\3-Bootcamp_GFT_Starter\6-TrabalhandoArquivos&Streams\4-FileSystemWatcher\bin\Debug\net5.0\FileSystemWatcher.runtimeconfig.json
+C:\Users\Admin\Desktop\DigitalOne\3-Bootcamp_GFT_Starter\6-TrabalhandoArquivos&Streams\4-FileSystemWatcher\bin\Debug\net5.0\FileSystemWatcher.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\DigitalOne\3-Bootcamp_GFT_Starter\6-TrabalhandoArquivos&Streams\4-FileSystemWatcher\bin\Debug\net5.0\FileSystemWatcher.dll
+C:\Users\Admin\Desktop\DigitalOne\3-Bootcamp_GFT_Starter\6-TrabalhandoArquivos&Streams\4-FileSystemWatcher\bin\Debug\net5.0\ref\FileSystemWatcher.dll
+C:\Users\Admin\Desktop\DigitalOne\3-Bootcamp_GFT_Starter\6-TrabalhandoArquivos&Streams\4-FileSystemWatcher\bin\Debug\net5.0\FileSystemWatcher.pdb
+C:\Users\Admin\Desktop\DigitalOne\3-Bootcamp_GFT_Starter\6-TrabalhandoArquivos&Streams\4-FileSystemWatcher\obj\Debug\net5.0\FileSystemWatcher.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\DigitalOne\3-Bootcamp_GFT_Starter\6-TrabalhandoArquivos&Streams\4-FileSystemWatcher\obj\Debug\net5.0\FileSystemWatcher.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\DigitalOne\3-Bootcamp_GFT_Starter\6-TrabalhandoArquivos&Streams\4-FileSystemWatcher\obj\Debug\net5.0\FileSystemWatcher.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\DigitalOne\3-Bootcamp_GFT_Starter\6-TrabalhandoArquivos&Streams\4-FileSystemWatcher\obj\Debug\net5.0\FileSystemWatcher.AssemblyInfo.cs
+C:\Users\Admin\Desktop\DigitalOne\3-Bootcamp_GFT_Starter\6-TrabalhandoArquivos&Streams\4-FileSystemWatcher\obj\Debug\net5.0\FileSystemWatcher.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\DigitalOne\3-Bootcamp_GFT_Starter\6-TrabalhandoArquivos&Streams\4-FileSystemWatcher\obj\Debug\net5.0\FileSystemWatcher.dll
+C:\Users\Admin\Desktop\DigitalOne\3-Bootcamp_GFT_Starter\6-TrabalhandoArquivos&Streams\4-FileSystemWatcher\obj\Debug\net5.0\ref\FileSystemWatcher.dll
+C:\Users\Admin\Desktop\DigitalOne\3-Bootcamp_GFT_Starter\6-TrabalhandoArquivos&Streams\4-FileSystemWatcher\obj\Debug\net5.0\FileSystemWatcher.pdb
+C:\Users\Admin\Desktop\DigitalOne\3-Bootcamp_GFT_Starter\6-TrabalhandoArquivos&Streams\4-FileSystemWatcher\obj\Debug\net5.0\FileSystemWatcher.genruntimeconfig.cache
